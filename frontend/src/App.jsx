@@ -8,8 +8,8 @@ const API = import.meta.env.VITE_API_URL || "/api";
 // STUDENT IDENTITY — edit these three values to change the displayed identity
 // ─────────────────────────────────────────────────────────────────────────────
 const STUDENT = {
-  full_name:  "Ezaekor Chukwuebuka Emmanuel",
-  reg_number: "2021/1/12345CS",
+  full_name:  "Nduka Chikamji Divine",
+  reg_number: "2031375842",
   department: "Cybersecurity",
 };
 
