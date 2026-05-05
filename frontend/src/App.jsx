@@ -616,7 +616,7 @@ export default function App() {
         fontSize: 11,
         color: "#374151",
       }}>
-        CineMatch v2.0 · Collaborative Filtering AI &nbsp;·&nbsp; Ezaekor Chukwuebuka Emmanuel &nbsp;·&nbsp; FUTO Cybersecurity Dept.
+        CineMatch v2.0 · Collaborative Filtering AI &nbsp;·&nbsp; Nduka Chikamji Divine &nbsp;·&nbsp; FUTO Cybersecurity Dept.
       </footer>
     </div>
   );
