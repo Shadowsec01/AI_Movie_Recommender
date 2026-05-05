@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Data (comment out students.csv line if you want to commit initial empty file)
+# backend/students.csv
+
+# OS
+.DS_Store
+Thumbs.db

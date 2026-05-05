@@ -1,0 +1,19 @@
+title,year,genres,tmdb_id,poster_url,backdrop_url
+Inception,2010,"Sci-Fi,Thriller",27205,https://image.tmdb.org/t/p/w500/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg,https://image.tmdb.org/t/p/w1280/s2bT29y0ngXxxu2IA8AOzzXTRhd.jpg
+The Matrix,1999,"Sci-Fi,Action",603,https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg,https://image.tmdb.org/t/p/w1280/fNG7i7RqMErkcqhohV2a6cV1Ehy.jpg
+Interstellar,2014,"Sci-Fi,Drama",157336,https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg,https://image.tmdb.org/t/p/w1280/xJHokMbljvjADYdit5fK5VQsXEG.jpg
+The Dark Knight,2008,"Action,Thriller",155,https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg,https://image.tmdb.org/t/p/w1280/hkBaDkMWbLaf8B1lsWsKX7Ew3Xq.jpg
+Parasite,2019,"Thriller,Drama",496243,https://image.tmdb.org/t/p/w500/7IiTTgloROVKhTCUsqdLFa5fNHI.jpg,https://image.tmdb.org/t/p/w1280/ApiBzeaa95TNYliSbQ8pJv4Fje7.jpg
+Get Out,2017,"Horror,Thriller",419430,https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg,https://image.tmdb.org/t/p/w1280/oia8khUBOgWEY5scRMKByFsUAUc.jpg
+Her,2013,"Sci-Fi,Drama,Romance",152601,https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGCGuBSfxb9or6xl.jpg,https://image.tmdb.org/t/p/w1280/lhkHRBbNr3QZOR2oDPvHWRKOBfW.jpg
+Blade Runner 2049,2017,"Sci-Fi,Thriller",335984,https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg,https://image.tmdb.org/t/p/w1280/ilRyazdMJwN05exqhwK4tMKBYZs.jpg
+The Avengers,2012,"Action,Sci-Fi",24428,https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg,https://image.tmdb.org/t/p/w1280/kwNHCMQOQTbBvlBLhCiVoILWFcx.jpg
+John Wick,2014,"Action,Thriller",245891,https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg,https://image.tmdb.org/t/p/w1280/umC04Cozevu8nn3ZTIZZ5UhCCaL.jpg
+Whiplash,2014,"Drama,Music",244786,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg,https://image.tmdb.org/t/p/w1280/xmKQiN1lSxk4bXq6XWZNZhuuCXY.jpg
+La La Land,2016,"Drama,Romance,Music",313369,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg,https://image.tmdb.org/t/p/w1280/nadTlnTE6DdFbNGNMFNWPBGsRLB.jpg
+Mad Max: Fury Road,2015,"Action,Sci-Fi",76341,https://image.tmdb.org/t/p/w500/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg,https://image.tmdb.org/t/p/w1280/phszHPFnhsKpCdOFiI5wMuAZsyK.jpg
+Everything Everywhere All at Once,2022,"Sci-Fi,Drama,Comedy",545611,https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg,https://image.tmdb.org/t/p/w1280/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg
+Oppenheimer,2023,"Drama,History",872585,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg,https://image.tmdb.org/t/p/w1280/rLb2cwF3Pazuxaj0sRXQ037tGI1.jpg
+Dune,2021,"Sci-Fi,Drama",438631,https://image.tmdb.org/t/p/w500/d5NXSklpcKDk2S9TYJH3AZnBOJ.jpg,https://image.tmdb.org/t/p/w1280/ygSjBRSNJMWFrHQkMFnIFAzDuX8.jpg
+The Grand Budapest Hotel,2014,"Comedy,Drama",120467,https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg,https://image.tmdb.org/t/p/w1280/b9VeSOjBi1TlRKjNiY0RGkmADV9.jpg
+Arrival,2016,"Sci-Fi,Drama",329865,https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg,https://image.tmdb.org/t/p/w1280/yGeE4StGlJpxOQOKrRDfCnOh9WT.jpg
